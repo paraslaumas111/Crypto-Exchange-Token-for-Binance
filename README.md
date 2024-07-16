@@ -2,20 +2,9 @@
 
 Crypto Exchange Token for Binance (Tech Stack: Express.js, React, Node.js, Motoko)
  
- • Developed a Decentralized Application (DApp) for users to send and receive a newly created cryptocurrency token
- “DANG” seamlessly on the Internet Computer Blockchain (ICB).
+• Developed a Decentralized Application (DApp) for users to send and receive the cryptocurrency token “DANG” on the Internet Computer Blockchain (ICB), utilizing Motoko and JavaScript for the backend to manage token balances.
  
- • Integrated “Internet Identity”, a 3rd party authentication partner, to provide an anonymous and secure blockchain
- authentication framework supported by the ICB.
- 
- • Utilized Motoko and JavaScript to develop the backend, employing HashMaps to efficiently store and manage users’
- crypto token balances.
- 
- • Implemented a feature allowing users to claim some free tokens initially, encouraging adoption and increasing user
- engagement with the DApp.
- 
- • Leveraged the decentralized storage capabilities of the blockchain for data persistence, eliminating the need for
- traditional DBMS software.
+• Integrated “Internet Identity” for secure, anonymous blockchain authentication, and implemented a feature for users to claim free tokens initially to boost engagement and adoption.
 
 #Basic Instructions -
 
